@@ -1,0 +1,4 @@
+Sitemap: https://covid.bloggingmetrics.com/sitemap.xml
+
+User-agent: *
+Disallow:
